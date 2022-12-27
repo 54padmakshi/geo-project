@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+
+*{
+    margin-top: 20px;
+    width: auto;
+    height: fit-content;
+    background-color: black; 
+}
+#cont1{
+   text-align: center; 
+   
+   color:white; 
+}
+#b{
+    width: 400px;
+    height: 50px;
+    background-color:beige;
+    color: black;
+    font-size: 24px;
+}
+h2{
+    font-size: 100px;
+}
+

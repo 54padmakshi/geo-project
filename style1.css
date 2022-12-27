@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+*{
+    margin: 10px;
+    background-color: beige;
+    width: auto;
+    height: auto;
+}
+.container1{
+    height: 50%;
+    background-color: beige;
+    
+}
+#heading1{
+    font-size: 50px;
+    text-align: center;
+}
+.long{
+    
+   text-align: start;
+    font-size: 30px;
+    background-color: black;
+}
+.lat{
+    font-size: 30px;   
+    text-align: left
+ 
+}
+.map{
+    height: 75%;
+    margin-left: 50px;
+    font-size: 50px;
+    
+}
+.container2{
+    height: 60vh;
+    background-color: black;
+    margin-top: 50px;
+   
+}
+#heading2{
+font-size: 50px;
+color: white;
+background-color: black;
+text-align: center;
+}
+#table{
+    color: white;
+    background-color: black;
+    font-size: 30px;
+}
+p{
+    color: white;
+    background-color: black;
+    font-size: 30px; 
+}
